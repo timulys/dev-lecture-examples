@@ -1,0 +1,26 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDE and OS state
+.DS_Store
+.idea/
+*.iml
+.vscode/
+
+# Generated Java/build output
+.gradle/
+**/target/
+**/build/
+**/out/
+*.class
+*.log
+
+# Private production assets
+*.mp4
+*.mov
+*.mp3
+*.wav
