@@ -6,6 +6,7 @@
 
 ## 강의 목록
 
+- [자바 TreeMap과 NavigableMap의 동작 원리와 범위 검색](lessons/2026-11-28_java-treemap-navigablemap/README.md) · Java 21
 - [스트랭글러 피그 패턴으로 기존 기능을 점진적으로 교체하기](lessons/2026-11-27_strangler-fig-pattern/README.md) · Java 17 · Spring Boot 3.5.8
 - [결과 타입으로 성공과 실패를 표현하는 자바 설계](lessons/2026-11-26_java-result-types/README.md) · Java 21
 
